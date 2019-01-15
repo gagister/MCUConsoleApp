@@ -23,7 +23,7 @@ Not special setup needed, just run program from IDE.
 ### ROLES:
 There will be three levels of authorization: Administrator, Moderator and User.
 
-	All Users (administrator, moderators and users) can:
+All Users (administrator, moderators and users) can:
 * Can read movie information
 * Can set rating 0-10
 * Can add to favorite list
